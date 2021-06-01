@@ -22,21 +22,15 @@ illustration and statistical analysis of our database.
 
 ![framework](./img/datasource.jpg)
 
-## 3. Training
-The details of the hyper-parameters are all listed in the `train.py`. Use the below command to train our model on the SIGF database.
 
-```
-    python ./train.py 
-```
-
-## 4. Test
- Use the below command to test the model on the database.
+## 3. Usage
+Use the below command to test the model on our database.
 ```
     python ./test.py 
 ```
 
 
-## 8. Citation
+## 4. Citation
 If you find our work useful in your research or publication, please cite our work:
 ```
 @article{Wang2021joint,
@@ -47,3 +41,4 @@ If you find our work useful in your research or publication, please cite our wor
   year={2021}
 }
 ```
+
