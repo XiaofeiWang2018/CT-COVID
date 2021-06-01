@@ -22,15 +22,20 @@ illustration and statistical analysis of our database.
 
 ![framework](./img/datasource.jpg)
 
+## 3. Train
+Use the below command to train the model on our database.
+```
+    python ./train.py 
+```
 
-## 3. Usage
+## 4. Test
 Use the below command to test the model on our database.
 ```
     python ./test.py 
 ```
 
 
-## 4. Citation
+## 5. Citation
 If you find our work useful in your research or publication, please cite our work:
 ```
 @article{Wang2021joint,
